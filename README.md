@@ -9,3 +9,4 @@
 - [dijkstart](../master/basic/dijkstra.py)
 - [floyd_warshall](../master/basic/floyd_warshall.py)
 - [kruskal](../master/basic/kruskal.py)
+- [topology_sort](../master/basic/topology_sort.py)
