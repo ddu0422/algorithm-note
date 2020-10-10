@@ -8,3 +8,4 @@
 - [binary_search](../master/basic/binary_search.py)
 - [dijkstart](../master/basic/dijkstra.py)
 - [floyd_warshall](../master/basic/floyd_warshall.py)
+- [kruskal](../master/basic/kruskal.py)
